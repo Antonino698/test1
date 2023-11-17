@@ -7,6 +7,6 @@ DB_CONFIG = {
 }
 
 BOT_CONFIG = {
-    '__TOKEN': __TOKEN,
+    '__TOKEN': '6330182331:AAGHzlu-MmTk4Bu20Kfc3X-eYDH3YoVTD9s',
     '__USERNAME': '@TestQD2023bot',
 }
